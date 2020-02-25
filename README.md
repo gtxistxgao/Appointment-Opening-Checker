@@ -1,5 +1,3 @@
-# Check opening slots for US Visa Appointment in Vancouver
-
 # Recommend to use Gmail's SMTP
 
 - Set Less secure apps on for the Gmail account
